@@ -1,6 +1,8 @@
 # Gensyn-Testnet
 Process to run Gensyn testnet 
+
 ssh -p 2092 root@n1.us.clorecloud.net
+
 ssh -p 2092 root@n1.de.clorecloud.net
 
 
